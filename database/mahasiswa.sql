@@ -38,7 +38,7 @@ CREATE TABLE `login` (
 --
 
 INSERT INTO `login` (`id`, `username`, `password`) VALUES
-(1, 'admin', '$2y$10$24qas3t52/WqKijWZDVfYO7oj.Z.0SY7MVxLowpgqkXR64kwtJ0N2');
+(1, 'admin', 'admin');
 
 -- --------------------------------------------------------
 
